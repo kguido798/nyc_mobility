@@ -1,0 +1,21 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database files
+instance/
+*.db
+
+# Large datasets
+data/
+*.csv
+*.parquet
+*.zip
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
