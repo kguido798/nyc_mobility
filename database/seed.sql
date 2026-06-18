@@ -1,0 +1,17 @@
+INSERT INTO zones (
+    location_id,
+    borough,
+    zone_name,
+    service_zone
+)
+VALUES
+(1,'EWR','Newark Airport','EWR'),
+(2,'Queens','Jamaica Bay','Boro Zone'),
+(3,'Bronx','Allerton/Pelham Gardens','Boro Zone'),
+(4,'Manhattan','Alphabet City','Yellow Zone'),
+(5,'Staten Island','Arden Heights','Boro Zone'),
+(6,'Staten Island','Arrochar/Fort Wadsworth','Boro Zone'),
+(7,'Queens','Astoria','Boro Zone'),
+(8,'Queens','Astoria Park','Boro Zone'),
+(9,'Queens','Auburndale','Boro Zone'),
+(10,'Queens','Baisley Park','Boro Zone');

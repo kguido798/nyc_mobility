@@ -1,0 +1,13 @@
+# Data files
+backend/data/*.parquet
+backend/data/*.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Node
+node_modules/
